@@ -18,7 +18,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 public class CeCapstoneGoogleMapsActivity extends MapActivity {
-
+//test
 	// globals
 	private MapView mapView;
 	private MyLocationOverlay myLocOverlay;
